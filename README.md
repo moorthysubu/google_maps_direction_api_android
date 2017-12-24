@@ -17,7 +17,7 @@ Make sure you have enabled following api services in your developer console.
 
   1.Replace your google map api key on  ```google_maps_api.xml file```.
   
-  2.Replace google places api key in ```MapActivity file``` with ```GOOGLE_PLACES_API_KEY ``` variable.
+  2.Replace google places api key in ```MapActivity.java``` file with ```GOOGLE_PLACES_API_KEY ``` variable.
 
 # Result:
 
